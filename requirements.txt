@@ -28,7 +28,7 @@ fake-useragent==2.0.3
 Flask==3.1.0
 Flask-HTTPAuth==4.8.0
 gunicorn==23.0.0
-h11==0.14.0
+h11==0.16.0
 httpcore==1.0.7
 httpx==0.28.1
 idna==3.10
